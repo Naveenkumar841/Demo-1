@@ -1,8 +1,3 @@
-.navbar .navbar-nav .navbar-item{
-    position: relative;
-}
-.navbar .navbar-nav .navbar-item::after{
-    position: absolute;
-    content: "...";
-    background-color: antiquewhite;
+.promo{
+    background-image: url("images/img-promo-01.png");
 }
