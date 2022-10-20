@@ -1,7 +1,13 @@
+*{
+    box-sizing: border-box;
+}
 .promo {
     background-image: url("images/img-promo-01.png");
 }
 
-
-
+#card-c:hover{
+    -ms-transform: scale(1.5) !important; /* IE 9 */
+    -webkit-transform: scale(1.5) !important; /* Safari 3-8 */
+    transform: scale(1.5) !important; 
+}
   
